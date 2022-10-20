@@ -1,1 +1,1 @@
-**Proptech**, the application of technology to real-estate markets, is offering an instant, one-click service for people to buy properties and then rent them.
+**Proptech**, the application of technology to real-estate markets, is offering an instant, one-click service for people to buy properties and then rent them.  This notebook analyses the sale per square foot and gross rent data for several neighbourhoods in San Francisco and determines whether the buy-then-rent one-click strategy has merit based on the potential returns of the area. 
